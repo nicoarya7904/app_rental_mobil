@@ -45,7 +45,7 @@
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
                 <a class="nav-link" href="<?= base_url('customer/dashboard'); ?>">Beranda
-                  <span class="sr-only">(current)</span>
+                  <span class="sr-only"></span>
                 </a>
               </li> 
               <li class="nav-item">
